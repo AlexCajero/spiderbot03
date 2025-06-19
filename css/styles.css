@@ -1,5 +1,5 @@
 body {
-  background-color:bisque;
+  background-color:cadetblue;
 }
 
 h1 {
@@ -16,6 +16,7 @@ p {
   font-size: 20px;
 }
 img{
+    margin: auto;
     align-items: center;
     padding: 20px;
     border-radius: 20px;
