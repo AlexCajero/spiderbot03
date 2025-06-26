@@ -43,6 +43,7 @@ p {
 }
 .contenedor_titulo{
   text-align: center;
+  padding: 10px;
   width: 100%;
   display: flex;
   justify-content: center;
