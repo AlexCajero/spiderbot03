@@ -29,8 +29,18 @@ p {
   justify-content: center; 
   gap: 10px;
 }
+.imagen{
+  width: auto;
+  height: auto;
+  border-radius: 8px;
+}
 .imagen img {
   width: auto;
   height: auto;
   border-radius: 8px;
 }
+ @media (max-width: 600px) {
+      .contenedor {
+        flex-direction: column;
+      }
+  }
