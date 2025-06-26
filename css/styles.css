@@ -1,5 +1,5 @@
 body {
-  background-color:cadetblue;
+  background-color:rgb(31, 30, 31);
 }
 
 h1 {
@@ -7,8 +7,8 @@ h1 {
   text-align: center;
 }
 h2{
-    color: white;
-    text-align: center;
+  color: white;
+  text-align: center;
 }
 p {
     color: white;
@@ -42,8 +42,11 @@ p {
   height: auto;
   border-radius: 8px;
 }
- @media (max-width: 600px) {
+ @media (max-width: 800px) {
       .contenedor {
         flex-direction: column;
+      }
+      .imagen{
+        width:auto;
       }
   }
