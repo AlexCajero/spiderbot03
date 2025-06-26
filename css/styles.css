@@ -24,6 +24,8 @@ p {
     border-radius: 20px;
 }*/
 .supremo{
+  padding: center;
+  align-items: center;
   text-align: center;
   background-color: rgba(0, 0, 0, 0.295);
   width: 100%;
