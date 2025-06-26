@@ -16,12 +16,12 @@ p {
   font-family: verdana;
   font-size: 20px;
 }
-img{
+/*img{
     margin: auto;
     align-items: center;
     padding: 20px;
     border-radius: 20px;
-}
+}*/
 .contenedor {
   background-color: rgba(0, 0, 0, 0.295);
   width: 100%;
