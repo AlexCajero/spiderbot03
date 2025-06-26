@@ -3,15 +3,16 @@ body {
 }
 
 h1 {
-  color: white;
+  font-family: 'Roboto', sans-serif;
+  color:black;
   text-align: center;
 }
 h2{
-  color: white;
+  color: black;
   text-align: center;
 }
 p {
-    color: white;
+    color: black;
   text-align: center;
   font-family: verdana;
   font-size: 20px;
@@ -28,6 +29,15 @@ p {
   display: flex;
   justify-content: center;
   border-radius: 8px;
+}
+.titulo{
+   margin: 20px;
+  padding: 10px;
+  width: 50%;
+  height: auto;
+  border-radius: 8px;
+  gap: 10px;
+  background-color: rgba(255, 255, 255, 0.863);
 }
 .imagen{
   margin: 20px;
