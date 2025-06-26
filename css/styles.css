@@ -47,6 +47,7 @@ p {
         flex-direction: column;
       }
       .imagen{
+        margin: 10px;
         width:auto;
       }
   }
