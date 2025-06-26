@@ -26,7 +26,8 @@ p {
   background-color: rgba(0, 0, 0, 0.295);
   width: 100%;
   display: flex;
-  justify-content: center; 
+  justify-content: center;
+  border-radius: 8px;
 }
 .imagen{
   margin: 20px;
@@ -35,7 +36,11 @@ p {
   height: auto;
   border-radius: 8px;
   gap: 10px;
-  background-color: rgba(154, 12, 197, 0.801);
+  background-color: rgba(255, 255, 255, 0.863);
+}
+.imagen h2{
+  color: black;
+  text-align: center;
 }
 .imagen img {
   width: auto;
