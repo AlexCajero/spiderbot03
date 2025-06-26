@@ -23,6 +23,7 @@ img{
     border-radius: 20px;
 }
 .contenedor {
+  background-color: rgba(0, 0, 0, 0.295);
   width: 100%;
   display: flex;
   justify-content: center; 
