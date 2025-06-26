@@ -27,12 +27,12 @@ p {
   width: 100%;
   display: flex;
   justify-content: center; 
-  gap: 10px;
 }
 .imagen{
   width: auto;
   height: auto;
   border-radius: 8px;
+  gap: 10px;
 }
 .imagen img {
   width: auto;
