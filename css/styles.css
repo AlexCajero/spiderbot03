@@ -42,6 +42,7 @@ p {
   border-radius: 8px;
 }
 .titulo{
+  padding: 10px;
   text-align: center;
   display: flex;
   flex-direction: column;
