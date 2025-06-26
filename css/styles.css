@@ -29,10 +29,13 @@ p {
   justify-content: center; 
 }
 .imagen{
+  margin: 20px;
+  padding: 10px;
   width: auto;
   height: auto;
   border-radius: 8px;
   gap: 10px;
+  background-color: rgba(154, 12, 197, 0.801);
 }
 .imagen img {
   width: auto;
